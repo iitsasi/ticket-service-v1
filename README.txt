@@ -4,6 +4,8 @@ Requirements:
 1.Java 1.8
 2.Maven 3.x.x
 3.Environment variables for Java and Maven should be set
+4.Spring 4.x.x
+5.Junit 4.x.x
  
 Steps to Execute:
 1. Clone or download the project from Github and save it into your desired directory
