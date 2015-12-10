@@ -8,8 +8,8 @@ Requirements:
 Steps to Execute:
 1. Clone or download the project from Github and save it into your desired directory
 2. Open Command prompt and navigate to the saved directory
-3. Run the command ìmvn clean installî - This should install the project successfully and create a jar file under target directory in the same folder
-4. Navigate to the generated target directory and run the command ìjava ñjar TicketService-1.jarî.
+3. Run the command ‚Äúmvn clean install‚Äù - This should install the project successfully and create a jar file under target directory in the same folder
+4. Navigate to the generated target directory and run the command ‚Äújava ‚Äìjar TicketService-1-jar-with-dependencies.jar‚Äù.
 5. There will be prompt to key in request attributes and choose the functionality accordingly and press enter after each prompt.
 6. The program should execute and print the results in the next line.
  
